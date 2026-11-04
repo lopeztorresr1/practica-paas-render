@@ -10,7 +10,8 @@ def inicio():
       'estado': 'Exitoso',
       'mensaje': '¡API desplegada con éxito en la Nube mediante PaaS!',
       'materia': 'Servicios en la Nube',
-      'version': '1.0.0',
+      'version': '2.0.0',
+      'cicd_status': 'Despliegue continuo automático funcionando correctamente',
   })
 
 
